@@ -481,3 +481,9 @@ http://gratuita.mrzutv.net:8080/movie/listam3ulistam3ulistam3ulistam3ulistam3uli
 http://gratuita.mrzutv.net:8080/movie/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41510.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El EscuadrÃ³n Suicida (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AcvqhsaE26hshLKZhXmnlsIkcq.jpg" group-title="FULL MOVIES   APOYANOS MRZUTV.NET BAJA NUESTRA APP",El EscuadrÃ³n Suicida (2021)
 http://gratuita.mrzutv.net:8080/movie/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41511.mkv'p
+#EXTM3U #EXTINF:-1group-title="HONDURAS", [COLOR red]AJ DESARROLLADORES & ISRAEL MARTIN DEVELOPERS[/COLOR] http://127.0.0.1 #EXTINF:-1, Azteca + Plus http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8? sd=10&rebase=on
+#EXTINF:-1group-title="HONDURAS", [COLOR red]AJ DESARROLLADORES & ISRAEL MARTIN DEVELOPERS[/COLOR] http://127.0.0.1 #EXTINF:-1, Azteca + Plus http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8? sd=10&rebase=on
+#EXTINF:-1,TELEMAR CAMPECHE
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u
+#EXTINF:-1, TRECEVISION YUCATAN
+http://streamingcws20.com:1935/trecevision/videotrecevision/playlist.m3u8?
