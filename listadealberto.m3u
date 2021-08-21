@@ -483,3 +483,9 @@ http://gratuita.mrzutv.net:8080/movie/listam3ulistam3ulistam3ulistam3ulistam3uli
 http://gratuita.mrzutv.net:8080/movie/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41511.mkv'p
 #EXTM3U #EXTINF:-1group-title="HONDURAS", [COLOR red]AJ DESARROLLADORES & ISRAEL MARTIN DEVELOPERS[/COLOR] http://127.0.0.1 #EXTINF:-1, Azteca + Plus http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8? sd=10&rebase=on
 #EXTINF:-1group-title="HONDURAS", [COLOR red]AJ DESARROLLADORES & ISRAEL MARTIN DEVELOPERS[/COLOR] http://127.0.0.1 #EXTINF:-1, Azteca + Plus http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8? sd=10&rebase=on
+#EXTINF:-1 tvg-id="677" tvg-name="Telemar Campeche" tvg-logo="https://www.m3u.cl/logo/677_Telemar_Campeche.png", Telemar Campeche | MX
+https://59d39900ebfb8.streamlock.net/8410/8410/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="680" tvg-name="Teleritmo" tvg-logo="https://www.m3u.cl/logo/680_Teleritmo.png", Teleritmo | MX
+https://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
+#EXTINF:-1,LA ORDEN
+https://www.youtube.com/watch?v=adZx2imtiDw
